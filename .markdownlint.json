@@ -1,0 +1,12 @@
+{
+    "first-line-h1": true,
+    "no-duplicate-heading": false,
+    "html": false,
+    "line-length": false,
+    "MD004": false,
+    "MD003": false,
+    "MD025": false,
+    "MD032": false,
+    "blanks-around-headings": false
+
+}
