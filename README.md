@@ -111,6 +111,7 @@ An interesting intersection of aviation and technology for someone who likes to 
 * ⭐[PiAware - ADS-B and MLAT Receiver ✈ FlightAware](https://flightaware.com/adsb/piaware/) - Use a [Raspiberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) to listed in for commercial airliner location, altitude and airspeed around you, and plot them on a nice web page.  Great weekend project for kids or adults alike.
   * And in general [FlightAware - Flight Tracker / Flight Status](https://flightaware.com/)
 * [Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://www.flightradar24.com/37.15,-121.02/6)
+* [OpenSky CLI](https://github.com/buildingopen/opensky) - Open-source flight search CLI with conflict zone detection and multi-provider aggregation.
 * [Stratux ADS-B | Stratux ADS-B - DIY/Low-cost Portable ADS-B](http://stratux.me/)
 * [What’s the difference between 1090 and 978? - Cincinnati Avionics](https://cincinnatiavionics.com/ads-b-out-difference-1090-978/)
 
