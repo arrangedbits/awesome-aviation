@@ -15,12 +15,14 @@ Inspired by [The Awesome List movement](https://github.com/sindresorhus/awesome)
 - [Airplanes](#airplanes)
   - [Personal Jets](#personal-jets)
   - [DIY Airplane](#diy-airplane)
+  - [Used / Affordable Airplanes](#used--affordable-airplanes)
   - [Avionics](#avionics)
 - [Tech Stuff](#tech-stuff)
   - [DIY / Maker](#diy--maker)
 - [Simulation](#simulation)
   - [Commercial Flight Simulators](#commercial-flight-simulators)
   - [Personal Flight Simulators](#personal-flight-simulators)
+  - [Online ATC Networks](#online-atc-networks)
   - [Radio Simulation](#radio-simulation)
 - [Psychology of flying](#psychology-of-flying)
 - [Other Resources](#other-resources)
@@ -44,7 +46,7 @@ Inspired by [The Awesome List movement](https://github.com/sindresorhus/awesome)
   * To quote their [about page](https://www.aopa.org/about): "*Our mission is to ensure that the sky remains within reach of everyone who dreams of becoming a pilot.*".
 
 # Learning to Fly
-What to learn to fly?
+Want to learn to fly?
 
 ## Getting Started
 * Depending on where you are there are a few options:
@@ -76,8 +78,8 @@ What to learn to fly?
 * ⭐[See How It Flies](https://www.av8n.com/how/) - Recommended by a friend. (Thanks MM)
 
 # Communication & Radios
-* ⭐[LiveATC.net](https://www.liveatc.net/) - Listen to Live ATC (Air Traffic Control) Communications.  Hear how the pros do it.  Great to listen in if you're bored on a long layout.
-* ⭐[Plane English App](https://planeenglishsim.com) - iOS and Android app for Aviation Radio Simulator. Amazing!  Practice radio calls and it will tell you how accourate you are, and what you missed.
+* ⭐[LiveATC.net](https://www.liveatc.net/) - Listen to Live ATC (Air Traffic Control) Communications.  Hear how the pros do it.  Great to listen in if you're bored on a long layover.
+* ⭐[Plane English App](https://planeenglishsim.com) - iOS and Android app for Aviation Radio Simulator. Amazing!  Practice radio calls and it will tell you how accurate you are, and what you missed.
 
 # Flight Planning & Weather
 Weather is listed here as its an important component of planning.  If this list grows, it can be expanded out.
@@ -85,6 +87,8 @@ Weather is listed here as its an important component of planning.  If this list 
 * ⭐[SkyVector: Flight Planning / Aeronautical Charts](https://skyvector.com/)
 * ⭐[ForeFlight - Integrated Flight App for Pilots](https://foreflight.com/) ($$)
 * [Global map of wind, weather, and ocean conditions](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/grid=on/orthographic=-120.54,37.86,3000/loc=-122.419,37.696)
+* [AviationWeather.gov](https://aviationweather.gov/) - NOAA's official source for METARs, TAFs, AIRMETs, SIGMETs.
+* [Windy.com](https://www.windy.com/) - Popular weather visualization tool pilots use.
 
 # Airplanes
 
@@ -101,19 +105,27 @@ Think you can't afford to every buy a plane?  Then consider building one. 😉 I
 * [RV-14 Van’s Kit Planes](https://www.vansaircraft.com/rv-14/)
 * [10 Cheapest Planes In The Sky - Plane & Pilot Magazine](https://www.planeandpilotmag.com/article/10-cheapest-birds-in-the-sky/8/)
 
+## Used / Affordable Airplanes
+Looking to buy a plane without breaking the bank? The most common path into aircraft ownership.
+* [Controller.com](https://www.controller.com/) - Aircraft marketplace for buying and selling planes.
+* [Trade-A-Plane](https://www.trade-a-plane.com/) - Aircraft marketplace with listings for all budgets.
+
 ## Avionics
 * [Garmin autoland](https://www.garmin.com/en-US/autonomi/)
+* [ForeFlight Sentry](https://www.foreflight.com/products/sentry/) - Portable ADS-B receiver with AHRS, CO monitor, and GPS.
 
 # Tech Stuff
 
 ## DIY / Maker
 An interesting intersection of aviation and technology for someone who likes to tinker.
-* ⭐[PiAware - ADS-B and MLAT Receiver ✈ FlightAware](https://flightaware.com/adsb/piaware/) - Use a [Raspiberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) to listed in for commercial airliner location, altitude and airspeed around you, and plot them on a nice web page.  Great weekend project for kids or adults alike.
+* ⭐[PiAware - ADS-B and MLAT Receiver ✈ FlightAware](https://flightaware.com/adsb/piaware/) - Use a [Raspiberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) to listen in for commercial airliner location, altitude and airspeed around you, and plot them on a nice web page.  Great weekend project for kids or adults alike.
   * And in general [FlightAware - Flight Tracker / Flight Status](https://flightaware.com/)
 * [Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://www.flightradar24.com/37.15,-121.02/6)
 * [OpenSky CLI](https://github.com/buildingopen/opensky) - Open-source flight search CLI with conflict zone detection and multi-provider aggregation.
 * [Stratux ADS-B | Stratux ADS-B - DIY/Low-cost Portable ADS-B](http://stratux.me/)
 * [What’s the difference between 1090 and 978? - Cincinnati Avionics](https://cincinnatiavionics.com/ads-b-out-difference-1090-978/)
+* [ADSBexchange.com](https://www.adsbexchange.com/) - Unfiltered ADS-B data aggregator.
+* [dump1090](https://github.com/antirez/dump1090) - Open-source ADS-B decoder.
 
 # Simulation
 
@@ -122,7 +134,10 @@ An interesting intersection of aviation and technology for someone who likes to 
 
 ## Personal Flight Simulators
 * [X-Plane](https://www.x-plane.com) - A good option for getting started.
-* [Microsoft Flight Simulator](https://www.flightsimulator.com/) - A new 2020 version is under development and the demo of the scenery look amazing.
+* [Microsoft Flight Simulator](https://www.flightsimulator.com/) - The 2020 edition brought stunning scenery and real-world weather. MSFS 2024 continues with enhanced realism and career modes.
+
+## Online ATC Networks
+* [VATSIM](https://www.vatsim.net/) - Online ATC network for flight sims with live human controllers worldwide.
 
 ## Radio Simulation
 * [Pilot edge](https://www.pilotedge.net/pages/cat-ratings) - Radio simulation to complement flight simulation.
@@ -144,7 +159,9 @@ An interesting intersection of aviation and technology for someone who likes to 
 
 ## YouTube
 * [AOPALive](https://www.youtube.com/channel/UCy5Xf-OOdWKhycTRS3kI95A) - Regular posts on GA updates.
-* [5 Private jets under $1M](https://www.youtube.com/watch?v=KoTDYNKm1Xo)
+* [Pilot Debrief](https://www.youtube.com/@pilot-debrief) - Aviation incident analysis and pilot decision-making breakdowns.
+* [Captain Steeeve](https://www.youtube.com/@CaptainSteeeve) - Airline pilot sharing cockpit experiences and aviation knowledge.
+* [Flight Insight](https://www.youtube.com/@flightinsight9111) - Aviation analysis covering incidents, technology, and flight operations.
 
 ## Fiction
 * [Airframe](https://www.amazon.com/Airframe-Michael-Crichton-ebook/dp/B000FC1GHO)
