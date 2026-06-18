@@ -94,6 +94,7 @@ Weather is listed here as it's an important component of planning.  If this list
 * [Global map of wind, weather, and ocean conditions](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/grid=on/orthographic=-120.54,37.86,3000/loc=-122.419,37.696)
 * [AviationWeather.gov](https://aviationweather.gov/) - NOAA's official source for METARs, TAFs, AIRMETs, SIGMETs.
 * [Windy.com](https://www.windy.com/) - Popular weather visualization tool pilots use.
+* [Aviation Shop Pilot Tools](https://www.aviationshop.com/pages/aviation-tools) - Free METAR decoder, weight & balance, fuel burn, crosswind & density altitude calculators
 
 # Airplanes
 
