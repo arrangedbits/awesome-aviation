@@ -130,6 +130,7 @@ An interesting intersection of aviation and technology for someone who likes to 
 * [Stratux ADS-B | Stratux ADS-B - DIY/Low-cost Portable ADS-B](http://stratux.me/)
 * [What’s the difference between 1090 and 978? - Cincinnati Avionics](https://cincinnatiavionics.com/ads-b-out-difference-1090-978/)
 * [ADSBexchange.com](https://www.adsbexchange.com/) - Unfiltered ADS-B data aggregator.
+* [SkyLink API](https://skylinkapi.com/) - All-in-one aviation REST API with live ADS-B traffic, aerodrome charts for 90+ countries, NOTAMs, carbon estimates, and flight-time prediction.
 * [dump1090](https://github.com/antirez/dump1090) - Open-source ADS-B decoder.
 
 # Simulation
