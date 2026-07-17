@@ -74,6 +74,7 @@ Want to learn to fly?
   * [Real World VFR](https://pilotworkshop.com/products/real-world-vfr/) - Fantastic edutainment.
   * [Pilot Workshop Weekly Tips](https://pilotworkshop.com/tips)
 * [MzeroA](https://www.mzeroa.com/) - Online ground school.
+* [PPL Free Ground School](https://pplfree.com) - Free FAA Private Pilot ground school: 22 modules, 872 practice questions, unlimited FAA-format mock exams. Free permanently, no card.
 * [FAA Safety](https://www.faasafety.gov/) -  Particularly their WINGS program.
 * ⭐[AOPA Online Courses](https://www.aopa.org/training-and-safety/online-learning/online-courses)
   * [Rusty Pilots Online - AOPA](https://www.aopa.org/training-and-safety/lapsed-pilots/rusty-pilots/rusty-pilots-online)
