@@ -154,6 +154,8 @@ An interesting intersection of aviation and technology for someone who likes to 
 * [Aviation Safety Reporting System (ASRS)](https://asrs.arc.nasa.gov/) - NASA's confidential voluntary reporting system. Learn from incidents reported by pilots, controllers, and others.
 * [AVweb](https://www.avweb.com/) - Aviation news and analysis, including accident coverage and safety articles.
 * [FAA Accident & Incident Data](https://www.asias.faa.gov/) - FAA's Aviation Safety Information Analysis and Sharing system.
+* [FlightFinder Safety Data](https://himaxym.com/safety) - Free explorers over public safety datasets: FAA wildlife strikes (347K reports), laser strikes, drone sightings, ASRS incident narratives, runway incursions and accident histories.
+* [aviation-safety-scrapers](https://github.com/disclaimer8/aviation-safety-scrapers) - Open-source scrapers for 38 national accident-investigation agencies (NTSB, AAIB, BEA, BFU, ATSB and others).
 
 # Medical / AME
 * [FAA MedXPress](https://medxpress.faa.gov/) - Online application system for FAA medical certificates.
