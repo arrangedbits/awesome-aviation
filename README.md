@@ -150,10 +150,12 @@ An interesting intersection of aviation and technology for someone who likes to 
 * ⭐[The overview effect](https://www.nasa.gov/johnson/HWHAP/the-overview-effect) - "The impact of looking down at the Earth from above, and how it can create a shift in the way astronauts view and think about our planet and life itself". IMHO the same applies to pilots a few thousand feet AGL.
 
 # Safety & Accident Investigation
+* [PlaneCrashData](https://www.planecrashdata.com/) - Interactive 3D globe and searchable historical aviation safety database mapping global flight incidents since 1919.
 * [NTSB Aviation Accident Database](https://www.ntsb.gov/Pages/AviationQuery.aspx) - Searchable database of aviation accident reports and investigations.
 * [Aviation Safety Reporting System (ASRS)](https://asrs.arc.nasa.gov/) - NASA's confidential voluntary reporting system. Learn from incidents reported by pilots, controllers, and others.
 * [AVweb](https://www.avweb.com/) - Aviation news and analysis, including accident coverage and safety articles.
 * [FAA Accident & Incident Data](https://www.asias.faa.gov/) - FAA's Aviation Safety Information Analysis and Sharing system.
+
 
 # Medical / AME
 * [FAA MedXPress](https://medxpress.faa.gov/) - Online application system for FAA medical certificates.
