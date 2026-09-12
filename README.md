@@ -166,6 +166,7 @@ An interesting intersection of aviation and technology for someone who likes to 
 * [Savvy Aviation](https://www.savvyaviation.com/) - Aircraft maintenance management and pre-buy inspection services.
 * [AOPA - Flying Clubs](https://www.aopa.org/go-fly/aircraft-and-ownership/flying-clubs) - Find or start a flying club to share ownership costs.
 * [Vref Aircraft Value Reference](https://vfrguide.com/) - Aircraft valuation guide for buyers and sellers.
+* [Windsock](https://windsock.ai) - Aircraft valuations with confidence bands, FAA registry lookups, cost of ownership and market data; free value previews, plus an API and MCP server for agents.
 
 # Drones / UAS
 * [FAA Part 107](https://www.faa.gov/uas/commercial_operators) - Commercial drone pilot certification and rules.
