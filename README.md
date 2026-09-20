@@ -166,6 +166,7 @@ An interesting intersection of aviation and technology for someone who likes to 
 * [Savvy Aviation](https://www.savvyaviation.com/) - Aircraft maintenance management and pre-buy inspection services.
 * [AOPA - Flying Clubs](https://www.aopa.org/go-fly/aircraft-and-ownership/flying-clubs) - Find or start a flying club to share ownership costs.
 * [Vref Aircraft Value Reference](https://vfrguide.com/) - Aircraft valuation guide for buyers and sellers.
+* [Tail Number Report](https://tailnumberreport.com/) - Instant FAA registration + NTSB accident history by tail number ($79). Cross-matches by manufacturer serial number, so an accident filed under a prior N-number still surfaces after a re-registration.
 
 # Drones / UAS
 * [FAA Part 107](https://www.faa.gov/uas/commercial_operators) - Commercial drone pilot certification and rules.
