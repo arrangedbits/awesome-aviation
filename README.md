@@ -132,6 +132,8 @@ An interesting intersection of aviation and technology for someone who likes to 
 * [What’s the difference between 1090 and 978? - Cincinnati Avionics](https://cincinnatiavionics.com/ads-b-out-difference-1090-978/)
 * [ADSBexchange.com](https://www.adsbexchange.com/) - Unfiltered ADS-B data aggregator.
 * [SkyLink API](https://skylinkapi.com/) - All-in-one aviation REST API with live ADS-B traffic, aerodrome charts for 90+ countries, NOTAMs, carbon estimates, and flight-time prediction.
+* [Fieldbook](https://fieldbook-nine-phi.vercel.app/) - Free directory of 17,108 airports worldwide (OurAirports data) with real coordinates, elevation, and runway length/surface for each one.
+* [Airport Data API](https://airport-data-api-ramy-akin-s-projects.vercel.app/) - REST API over the same 17,108-airport dataset: filter/search, single-airport lookup by ICAO, nearest-airport-by-coordinate, and country counts.
 * [dump1090](https://github.com/antirez/dump1090) - Open-source ADS-B decoder.
 
 # Simulation
