@@ -172,6 +172,7 @@ An interesting intersection of aviation and technology for someone who likes to 
 * [FAA Recreational Flyers](https://www.faa.gov/uas/recreational_flyers) - Rules and guidelines for flying drones recreationally.
 * [B4UFLY App](https://www.faa.gov/uas/getting_started/b4ufly) - FAA's app to check airspace restrictions before flying a drone.
 * [AUVSI](https://www.auvsi.org/) - Association for Uncrewed Vehicle Systems International.
+* [Part 107 Practice Test](https://sentry-part107.judestrahm.workers.dev/) - 20 free practice questions for the FAA remote pilot knowledge test, each answer explained with its source. The full 150-question bank is a paid PDF ($19).
 
 # Career Paths
 * [AOPA - Flight Training](https://www.aopa.org/training-and-safety) - Resources for every stage of pilot training.
