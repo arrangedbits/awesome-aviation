@@ -95,6 +95,7 @@ Weather is listed here as it's an important component of planning.  If this list
 * [AviationWeather.gov](https://aviationweather.gov/) - NOAA's official source for METARs, TAFs, AIRMETs, SIGMETs.
 * [Windy.com](https://www.windy.com/) - Popular weather visualization tool pilots use.
 * [Aviation Shop Pilot Tools](https://www.aviationshop.com/pages/aviation-tools) - Free METAR decoder, weight & balance, fuel burn, crosswind & density altitude calculators
+* [Military Time Tools](https://militarytimetools.com) - Live Zulu (UTC) time to the second, the current time in every U.S. time zone, and a converter between Zulu and local time.
 
 # Airplanes
 
