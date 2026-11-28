@@ -81,6 +81,7 @@ Want to learn to fly?
   * [Runway Safety](https://www.aopa.org/lms/courses/runway-safety/#splash)
   * [Know before you go](https://www.aopa.org/lms/courses/know-before-you-go/#01-introduction&01-the-challenge)
 * ⭐[See How It Flies](https://www.av8n.com/how/) - Recommended by a friend. (Thanks MM)
+* [Ghost Aviator](https://ghostaviator.com) - Free DGCA CPL and ATPL ground-exam notes and exam-trap explainers for Indian student pilots.
 
 # Communication & Radios
 * ⭐[LiveATC.net](https://www.liveatc.net/) - Listen to Live ATC (Air Traffic Control) Communications.  Hear how the pros do it.  Great to listen in if you're bored on a long layover.
